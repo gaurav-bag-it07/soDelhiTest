@@ -55,6 +55,7 @@ int main()
     };
     
     cout<<diagonalDifference(arr,n);
+    return 0;
     
 }
-return 0;
+
